@@ -23,6 +23,6 @@ This project aims to [briefly explain the purpose and main functionality]. It's 
 
 ```bash
 # Example command for installation
-git clone [https://github.com/yourusername/your-project.git](https://github.com/yourusername/your-project.git)
+git clone [https://github.com/proshanta000/gittutorials.git](https://github.com/proshanta000/gittutorials.git)
 cd your-project
 # Further installation steps (e.g., npm install, pip install)
